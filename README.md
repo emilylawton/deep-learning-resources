@@ -3,8 +3,6 @@ Repository to keep track of resources and inspiration found while exploring deep
 
 *oftentimes applied to or relating music
 
-Most 
-
 ### Online Books
 - [Deep Learning: Intro to Deep Learning with Neural Networks](http://www.deeplearningbook.net/book/frontmatter) by Mason Simon
 - [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
