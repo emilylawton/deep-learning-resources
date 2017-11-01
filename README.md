@@ -15,6 +15,8 @@ Repository to keep track of resources and inspiration found while exploring deep
 ### Papers
 - [Deep Learning Techniques for Music Generation - A Survey](https://arxiv.org/pdf/1709.01620.pdf)
 - [Deep Learning for Music](https://arxiv.org/pdf/1606.04930.pdf)
+- [Bach in 2014: Music Composition with Recurrent Neural Network](https://arxiv.org/pdf/1412.3191.pdf)
+- [A First Look at Music Composition using LSTM Recurrent Neural Networks](http://people.idsia.ch/~juergen/blues/IDSIA-07-02.pdf)
 
 ### Courses
 - [deeplearning.ai](https://www.deeplearning.ai/)
